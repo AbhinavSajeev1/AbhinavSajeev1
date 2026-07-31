@@ -1,1 +1,1 @@
-[![Song: Daytona](https://shields.io🎵_Track-Daytona--slayr-black?style=flat-square)](https://open.spotify.com/track/1z8YIll8YL4H0HqWH6MRH8)
+[![Listening to Daytona](https://img.shields.io/badge/Favorite%20Track-Daytona%20--%20slayr-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/search/Daytona%20slayr)
